@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 57 year old female with prolonged intubation, obtundation.
+Patient evaluated for an episode of change in muscle tone. Now intubated and poorly responsive.
+MEDICATIONS: Propofol, Versed, Ativan, Flagyl, Ampicillin, Gentamicin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. This is a 54-minute EEG.
+DESCRIPTION OF THE RECORD: Despite significant muscle artifact, the overall background is a s low pattern with beta and delta. Multiple pharmacologic measures are utilized to try and reduce muscle artifact, but a neuromuscular blocking agent was not utilized.
+HR: 116bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+CLINICAL CORRELATION: Focal and epileptiform features may be under recognized in this due to the muscle artifact. Because of critical issues, additional pharmacotherapy was not appropriate for this individual. If epilepsy is an important consideration, a follow up study when the patient is out of the ICU is suggested.
+
+
+

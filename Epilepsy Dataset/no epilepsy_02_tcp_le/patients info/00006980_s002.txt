@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 47 year old male who is status post drug overdose found unresponsive with temperature 100.9, history of bipolar disorder.
+MEDICATIONS: Fentanyl, Insulin, Gentamicin, ASA, imipenem, Pantoprazole, Lipitor, Zofran, Flagyl, Labetalol, Vancomycin, Heparin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive to external stimuli although he does have cranial nerve function
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous mixed frequency pattern rich In delta as well as theta. There Is, at times, some 7.5 Hz activity seen in the left or right occipital region. There does appear to be an asymmetry with disruption of faster frequency activity on the right.. Stimulation of the patient produces little in the way of alerting response or in terms of a change in the EEG, although there is some variability In the EEG.
+HR: 84bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Some degree of superimposed focal slowing with disruption of faster activity on the right.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function affecting both gray and white matter. In addition, consideration for a structural process on the right is suggested, Of note, the patient appears more obtunded than the EEG would suggest and correlation with imaging and other neurodiagnostic tests Is suggested.
+
+

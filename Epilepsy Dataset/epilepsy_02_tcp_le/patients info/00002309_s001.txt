@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 41-year-old woman with epilepsy following brain surgery in 1999, now with episodes of numbness and tingling around the mouth. History of obesity and sleep apnea.
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG is sharply contoured and somewhat poorly organized. There is a 9 Hz posterior dominant rhythm, but there is excess background theta seen in the record. At times, the posterior dominant rhythm is slower than 9 Hz and may be on the order of 6 to 7 Hz. There is generous frontocentral beta and a suggestion of accentuation of beta activity in the frontal regions, perhaps left frontal more than right. In this sharply contoured record, there are a handful of left frontal or frontocentral sharp waves, as well as some sharply contoured complexes at Pz, as well as C3. Photic stimulation elicits brief bilateral driving. Hyperventilation produces an increase in the amplitude. Drowsiness elicits an increase in background slowing.
+HR: 96 BPM.
+IMPRESSION: Abnormal EEG due to:
+1. Excess background slowing and disorganization.
+2. Sharp waves identified primarily from the left frontal and frontocentral regions.
+CLINICAL CORRELATION: This tracing supports a localization-related mechanism for this patient's epilepsy, as well as a diffuse disturbance of cerebral function. Contributing factors can include her previous brain surgery, as well as medication exposure.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 61 year old male with neurofibromatosis, mitral valve prolapse, diabetes, multiple sclerosis and possible seizures and confusion.
+MEDICATIONS: Gabapentin, Furosemide, Novolin, lancet, Glipizide, Baclofen, ASA, Lisinopril
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow and disorganized with a mixture of theta and alpha frequency activity. The posterior dominant rhythm ranges from 6-8 Hz in frequency. In drowsiness, there are bursts of hypersynchrony rhythmic theta. At the close of the record, the patient is awakened for photic stimulation and at that time there is still excess theta in the background. Photic stimulation does not activate the record.
+HR: 126 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing.
+2. Disorganization which improves over time.
+CLINICAL CORRELATION: The hypnagogic hypersynchrony observed above is a normal variant. No epileptiform features were noted in the background. Of note, the background slowing and disorganization was improving over the course of the record supportive of a transient process.
+
+
+

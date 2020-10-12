@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 53-year-old male with a history of hepatitis C, hypertension, laminectomy for C-spine stenosis, pancreatitis, fatty liver, benign prostatic hyperplasia, and left-sided weakness.  Patient presented with an episode of syncope and severe chest pain.
+MEDICATIONS: Aspirin, Heparin, Lovenox, and Flomax.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz posterior dominant rhythm, which is symmetric and reactive to eye opening.  There is generous,  low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements and an increase in beta.  Deeper stages of sleep are not achieved.  Photic stimulation elicits driving at intermediate flash frequencies.
+HR:  72 BPM.
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. The generous beta may be due to medications or anxiety.
+
+
+
+

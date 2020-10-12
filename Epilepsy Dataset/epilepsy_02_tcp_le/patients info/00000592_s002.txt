@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a __-year-old woman with epilepsy, seizure-free for many years.
+MEDICATIONS: Zoloft, Zyprexa, Lamictal, and Zantac.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates an 8.5 to 9 Hz, 40 to 60 uV posterior dominant rhythm.  There is a generous amount of low voltage, frontocentral beta activity.  There is a small degree of irregularity with mixed temporal theta and alpha frequency activity and is identified in either temporal regions.  This is seen in relaxed wakefulness and in hyperventilation.  It can also be identified in drowsiness. Deeper stages of sleep are not achieved.
+Photic stimulation elicits both LAMBDA activity and a small degree of bilateral driving.
+HR:  66 BPM.
+IMPRESSION: Very mildly abnormal EEG for a subject of this age due to:
+1.	Slightly irregular, mixed temporal alpha and theta frequency activity.
+CLINICAL CORRELATION: No definite epileptiform activity was identified. In this individual with a past history of seizures, additional studies may be helpful to further define potential epileptiform activity in sleep.
+
+
+
+

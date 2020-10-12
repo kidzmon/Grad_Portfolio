@@ -1,0 +1,15 @@
+LOCATION: 742A
+CLINICAL HISTORY: 77 year old right handed woman with nausea and vomiting for 3 days, generalized weakness, cirrhosis, past history of cancer, and stroke.
+MEDICATIONS: Tramadol, Zocor, Insulin, Hydroxyzine, Nifedipine, ASA, Nitrofurantoin
+INTRODUCTION: Digital video EEG was performed in lab using 10-20 system of electrode placement with 1 channel EKG. Photic stimulation completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background E..G is somewhat slow and disorganized. There is a theta frequency posterior dominant rhythm, approximately 6 Hz, occasionally improving to 7 Hz. Shifting slowing is noted in relaxed wakefulness. There was a fair amount of muscle artifact noted in the background. Photic stimulation does not activate the record, but shifting slowing is a bit more prominent in the EEG during photic, particularly in the right hemisphere. the patient becomes drowsy, bursts of asynchronous delta are noted from each hemisphere, again. this is irregular and asynchronous slowing.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. A moderately slow background.
+2. Shifting slowing.
+3. Prominent arrhythmic delta in drowsiness.
+CLINICAL CORRELATION: There are no epileptiform features are observed. The  findings described above are nonspecific and can be seen in a bihemispheric process  with many different causes. Of note, the patient experienced chest pain the EEG.  This was associated with an alerting response. There were no epileptiform features noted with the chest pain.
+
+
+
+

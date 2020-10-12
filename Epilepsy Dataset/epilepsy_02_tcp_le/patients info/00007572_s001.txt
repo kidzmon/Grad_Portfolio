@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 72 year old male with change of mental status and seizures.
+MEDICATIONS: Depakote, Phenobarbital, Keppra, Pantoprazole, Labetalol, Digoxin
+INTRODUCTION: Continuous digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is lethargic. No clinical seizures are observed.
+DESCRIPTION OF THE RECORD: This section of EEG monitor demonstrates a markedly slow background with a theta delta pattern. Discrete, somewhat periodic, sharp waves are noted in the left frontal temporal region. During some sections of the record they are relatively continuous and demonstrate a bit of frequency evolution and during other sections they abate. Over time, they become increasingly subtle, however, later in the morning they are a bit more prominent. This EEG is reviewed from 8:55 to 2:30 in the afternoon and during this time the activity waxes and wanes, but never completely resolves.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Ongoing, periodic sharp waves, although they are albeit less prominent then earlier this week.
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 1 0-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is quite drowsy.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage slow pattern with a small, discrete T3 periodic sharp wave. The periodic sharp wave is starting to slow. It is not identified continuously and the periodicity is starting to fade. The overall pattern is quite slow and with the lower voltage theta pattern in sleep, in the overnight hours there is more of a transition to a delta pattern. Stimulation of the patient does not significantly activate the record. The patient has episodes of tachycardia at 10:23. This is not associated with epileptiform activity and in fact he does actually seem to have an arousal with faster frequency activity. He was treated with Ativan. The subsequent, sleep recording and early morning recording is very slow, low voltage theta with some delta and 1 or 2 episodes of attenuation.
+HR: 60-100 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Periodic complex that is decreased in amplitude, slowing in periodicity.
+2. Intermittently slow background, additionally slow in sleep or with the use of sedative hypnotic medications.
+CLINICAL CORRELATION: Epileptiform activity for this individual is improving.
+
+
+

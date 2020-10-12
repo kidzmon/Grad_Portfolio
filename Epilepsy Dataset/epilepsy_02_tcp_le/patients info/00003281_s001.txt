@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 13-year-old male with aspiration pneumonia and a tonic-clonic seizure with eyes rolling back in the head lasting four to five minutes.  Patient was admitted to hospital 10/07/06.
+MEDICATIONS: Antibiotics, Ibuprofen.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 50 uV posterior dominant rhythm.  The overall background is somewhat disorganized for age.  In this sharply contoured background, in the waking record, there is a subtle underlying approximately 3 Hz spike and wave activity.
+Features of sleep include rhythmic background slowing, attenuation of the alpha rhythm, and an increase in beta activity.
+The major abnormalities are seizures, the first of which occurs just prior to the start of 3 Hz photic stimulation.  The seizure is characterized by very high amplitude, frontally predominant 3.5 to 5 Hz spike and slow wave activity.  The seizure begins just as the tech starts photic stimulation.  The child is able to sit up when the tech calls his name, but he is not able to respond and motions after the discharge is over that he does not recall the code word.  A second discharge is identified, which begins during photic stimulation at 19 Hz and slightly outlasts the duration of the photic stimulation, with a total seizure duration of 18 seconds, again with high amplitude, symmetric frontally predominant spike and slow wave activity.  Photic stimulation is repeated, but additional seizures are not recorded.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Two clinical seizures characterized by frontally predominant 3 to 5 Hz spike and slow wave activity with clinical impairment of awareness.
+The interictal EEG demonstrates an occipitally predominant spike and slow wave discharge.
+Mild degree of background disorganization.
+CLINICAL CORRELATION: This EEG supports a generalized mechanism for epilepsy.  The seizures themselves were frontally predominant and relatively characteristic of absence epilepsy, however, the interictal discharges in the background were not so typical.  Mitigating factors may include this child’s acute medical illness.
+
+
+
+

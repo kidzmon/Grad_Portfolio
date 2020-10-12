@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 29 year old male, status post motorcycle accident on May 29, intubated on arrival, head injury.
+MEDICATIONS: Levophed, Vasopressin, Dobutrex, Vancomycin, Zosyn
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Sections of the EEG are performed with the ECS montage and the entire record can be review in ECS.
+DESCRIPTION OF THE RECORD: There is no definitive cerebral activity. There are some sections where the record can be reviewed where there seems o be a very slow focus of delta seen intermittently in the central region, more so on the left with a positivity on the right. Given the sweat artifact, this is potentially artifactual. There is no
+reactivity or variability. The record can be reviewed in multiple different montages and attempts with low frequency filters can be made to reduce the sweat artifact.
+HR: 136 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Extraordinary suppression of background cerebral activity.
+CLINICAL CORRELATION: There are important technical considerations including slow, sweat artifact. The question of occasionally, central delta activity should not suggest that this individual be considered artifactual in this particular case and that other, more sensitive tests have determined that there is no cerebral blood flow.
+
+
+

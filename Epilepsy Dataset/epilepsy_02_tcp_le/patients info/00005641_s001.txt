@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 	52 year old woman who presents with new onset seizures. Past medical history is significant for dementia,  epilepsy, Down syndrome.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: This is a diffusely slow EEG with delta waves. There  are lots of eye movements.  There is a diffuse delta, as well as a mixed voltage alpha, theta, delta pattern predominantly in the C4 T4 region. This is a dynamic pattern with delta waves which progress to alpha and occasionally theta waves.  There is frequent eye blinking. There are a few triphasic waves in the background. There is also the presence of a lateral rectus spike.
+HR:	84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. 	Mixed alpha theta transitioning to delta pattern.
+2. 	Triphasic waves in the background.
+CLINICAL CORRELATION:   There is no epileptiform activity seen, however, the background slowing may be related to a metabolic encephalopathy.  Triphasic waves can be seen in either metabolic encephalopathy or in dementia.  If  the patient
+did have a seizure, this pattern can also be seen in the postictal state.  Her repetitive
+eye movements are not seizure activity.
+
+
+

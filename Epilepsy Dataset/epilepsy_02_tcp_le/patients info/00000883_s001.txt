@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 62-year-old woman with refractory epilepsy.
+MEDICATIONS: Carbamazepine.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This record has a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD: In wakefulness, there is intermittent focal slowing identified from the right hemisphere.  This demonstrates variable maximum and may include the right posterior temporal or mid-temporal with generous spread to the centrotemporal regions.  There are discrete sharp waves identified in this record.  These include T2 and also F4.   The intermittent focal slowing and the sharp waves interrupt what is otherwise a relatively well organized background.  As the patient becomes drowsy, there are occasional bursts of rhythmic focal delta or theta, which sometimes occurs as isolated bursts of 3 to 4 Hz activity from the right hemisphere.  Other features of drowsiness include anterior spread of the alpha rhythm and a more diffuse distribution of the beta. Deeper stages of sleep are not achieved.
+Hyperventilation did not activate the record.
+Photic stimulation elicits brief driving bilaterally
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Intermittent focal slowing from the right hemisphere with an unusual field of spread sometimes more conventionally temporal and on other occasions posterior temporal, but with variability in terms of central regions or posterior temporal regions.
+Sharp and slow wave complexes, which range from anterior temporal to frontal and again demonstrate generous fields of spread, as well as variability in terms of maximum.
+CLINICAL CORRELATION: Compared to previous records, this tracing is better organized.  There are no PLEDS.  This tracing supports a partial mechanism for epilepsy.  Correlation with imaging may be of use.
+
+
+
+

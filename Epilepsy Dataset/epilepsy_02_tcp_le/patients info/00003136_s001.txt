@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 49-year-old male with a closed head injury, seizure-related fall, bilateral subdurals.
+MEDICATIONS: Depakote, Hydralazine, Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as agitated and required Ativan for the study.
+DESCRIPTION OF THE RECORD: When the patient is resting comfortably, the background EEG demonstrates a drowsy pattern with generous beta activity from both hemispheres.  There is some artifact picked up from the scalp electrodes in the left posterior and anteriotemporal electrodes.  With stimulation, there is a posterior dominant rhythm of 12 Hz, followed by rhythmic delta.  There is some occipitally predominant rhythmic delta seen intermittently, which is higher amplitude on the left and slightly faster on the left.  Stimulation of the patient occurs spontaneously with coughing or to auditory stimuli.  There are occasional bursts of FIRDA seen with stimulation.
+HR:  80 BPM.
+IMPRESSION: Abnormal EEG due to:
+Excess beta.
+Intermittent occipitally predominant rhythmic delta, which is higher amplitude on the left.
+Occasional FIRDA with arousal.
+CLINICAL CORRELATION: The pattern of delta and FIRDA are non-specific findings and may be seen in the context of intracerebral injury or, in the case of FIRDA, a toxic or metabolic encephalopathy.  The generous beta may be due to medications. No epileptiform features were identified in this record, however, given the focal features described above, additional studies may either require correlation with imaging or additional evaluation.
+
+
+
+

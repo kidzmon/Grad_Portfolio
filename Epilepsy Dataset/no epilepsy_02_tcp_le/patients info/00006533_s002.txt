@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 46 year old woman status post cardiac arrest on September 7, 2010 now with myoclonus.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and is examined during the EEG.
+DESCRIPTION OF THE RECORD: This continues to be a very challenging EEG for a patient with frequent ocular movements, swallowing, and head jerking. There is very slow, periodic activity in the background, significant movement artifact, and beta. Stimulation of the patient does not activate the record. Some sections of the record demonstrate a very slow, with a periodic jerk of approximately once per 3 seconds.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a markedly slow pattern.
+2. A very slow, periodic complex noted in the background once per 3 seconds which is sometimes associated with this patient's involuntary jerking.
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy as can be seen in the context of anoxic injury.
+
+
+

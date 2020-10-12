@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 32 year old right handed male with new-onset seizures characterized by dropping to the floor and shaking. Past history of childhood epilepsy, drug abuse, hypoglycemia.
+MEDICATIONS: Methadone, Xanax, Alprazolam,
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. There is photic stimulation but no hyperventilation.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. There is a glimpse of a 9 Hz 30 microvolt posterior dominant rhythm but there are intermittent bursts of rhythmic high amplitude frontal theta. In addition, there is paroxysmal sharply contoured activity in the left temporal region with a phase reversal at T3. As the patient drifts into stage 1 sleep, vertex waves are observed and then the patient transitions over into wakefulness. Photic stimulation elicits scant driving.
+HR: N/A
+IMPRESSION: Markedly abnormal EEG due to:
+1. Paroxysmal background slowing, improving over the course of time.
+2. Left temporal rhythmic sharp activity.
+3. Frontally predominant rhythmic theta and delta.
+CLINICAL CORRELATION: Some features of this record support a metabolic process including the paroxysmal frontal slowing. Others suggest a localization-related mechanism for epilepsy. Additional EEG recording and/or clinical evaluation is suggested.
+
+
+

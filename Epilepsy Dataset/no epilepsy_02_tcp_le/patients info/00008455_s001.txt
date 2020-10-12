@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 82 year old male with mesenteric ischemia, evaluate for delirium. Dementia.
+MEDICATIONS: Metoprolol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow, with slow, featureless delta and a mixture of delta and theta. Stimulation of the patient produces an increase in theta. The patient does demonstrate a sleep pattern with an increase in delta. There is a bit more prominent delta noted in the right hemisphere compared to the left. There are some generalized periodic complexes noted in the record, as well as triphasic waves.
+HR: 80 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Significant generalized background slowing with primarily a theta frequency pattern.
+2. Some triphasic waves.
+3. Intermittent, somewhat generalized periodic complexes. In some sections of the record they are a bit more prominent in the right frontal regions, and in later sections of the record a bit more prominent in the left.
+CLINICAL CORRELATION: These findings should be placed in the appropriate clinical context, particularly given the patient's premorbid neurologic problems. The triphasic waves support a metabolic process, but the intermittent right or left periodic complexes raise concerns about potential for seizures.
+

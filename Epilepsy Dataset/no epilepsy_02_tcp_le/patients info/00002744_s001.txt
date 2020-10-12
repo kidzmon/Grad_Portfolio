@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 68-year-old woman with episodic feelings of light-headedness and a faint feeling with a strange smell.  No loss of consciousness.  Symptoms began six months ago and are now decreasing.
+MEDICATIONS: Lipitor, Diltiazem, aspirin, Lisinopril.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low-to-medium amplitude with a 9 Hz posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity. There is a great deal of muscle artifact in the temporalis due to the temporalis muscles.  Features of drowsiness include rhythmic theta and a handful of vertex waves. Photic stimulation does not activate the record.
+HR:  __ BPM.
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  The generous beta described above may be seen in anxiety, in the setting of benzodiazepine use, or as part of a normal pattern.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 65 year old gentleman who had a cardiac arrest on the 14th, prolonged arrest, was initially described as having some myoclonic jerks, persistently comatose with ocular myoclonus.
+MEDICATIONS: Amiodarone, Nitroglycerin, Famotidine, Metoprolol, ASA, Lorazepam, Demerol, Plavix
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is comatose and intubated.
+DESCRIPTION OF THE RECORD: The patient background EEG demonstrates a markedly abnormal pattern with a discontinuous EEG. There are some sections in the record with some periodic complexes in the left frontotemporal region and other asynchronous ones may occur from the right. As the recording continues, the EEG does seem to be becoming a bit more suppressed. Tactile stimulation of the patient does not seem to activate the record.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. An intermittently discontinuous pattern.
+2. Bursts of activity with some independent, periodic complexes from the left, particularly F7 or F3 or more asynchronously from the right.
+3. A pattern over time of increasing attenuation and a blunting of the periodic complexes.
+CLINICAL CORRELATION: These findings support a severe anoxic insult. If there is evidence of clinical seizures, antiepileptic medications may be considered. These findings support a very poor prognosis.
+
+
+

@@ -1,0 +1,17 @@
+
+CLINICAL HISTORY: 67 year old woman with refractory and recurrent complex partial status epilepticus now with poor cooperativity. Evaluate for oral twitching.
+
+MEDICATIONS: Phenobarbital, Keppra, Carbamazepine, Plavix Zoloft, Protonix, Lovenox, Plavix, ASA, Levothyroxine, Metoprolol, Insulin, Lorazepam
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a bedside recording.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern with generous beta and theta. There is a glimpse of a 9-Hz alpha rhythm. Frequent eye blink and movement is noted. Lambda waves are noted in one section of the record.
+
+HR: 84 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+
+CLINICAL CORRELATION: No epileptiform features were Identified today. The background beta and theta could be related to this patient's medications.
+

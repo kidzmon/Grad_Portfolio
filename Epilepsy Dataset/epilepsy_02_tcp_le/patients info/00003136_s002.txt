@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 49-year-old male with closed head injury evaluated for agitation.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is agitated, wearing a hard collar, and rocking from side to side.
+DESCRIPTION OF THE RECORD: When the patient is agitated, the background EEG, even after he receives 2 mg of Ativan, is remarkable for a low-to-medium amplitude pattern with diffuse and smaller amounts of theta.  There is a great deal of muscle artifact, but when the muscle drops out, it is clear that there is a decrease in faster frequency activity. This may be more prominent from the right compared to the left.
+HR:  96 to 110 BPM.
+IMPRESSION: Abnormal EEG due to:
+Excess beta.
+Excess theta.
+Question of intrahemispheric asymmetry with perhaps greater slowing on the right.
+CLINICAL CORRELATION: The extreme amount of agitation precludes a detailed study.  Epileptiform activity may be under-recognized in a subject with this degree of agitation.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 46 year old woman admitted on September 7, 2010 status post cardiac arrest while smoking crack, resuscitated for at least 15 minutes in the field.
+MEDICATIONS: Vancomycin, Zosyn, Fentanyl, Ativan, ASA, Heparin, Lispro
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated, comatose, and is examined during the EEG.
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for essentially diffuse continuous muscle artifact. Underneath this there appears to be some delta activity, as well as some split artifact. Stimulation of the patient does not activate the record. The technologist utilizes Versed to try and eliminate the artifact without significant benefit.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with primarily muscle activity.
+2. Evidence of some underlying cerebral activity.
+CLINICAL CORRELATION: Depending on the patient's clinical evaluation, a follow up study may be appropriate. There is some underlying cerebral activity. Options include a routine regular study or a study with a paralytic agent. Finally, sedative hypnotic medications, as utilized in this case, will impact the overall background.
+
+
+
+

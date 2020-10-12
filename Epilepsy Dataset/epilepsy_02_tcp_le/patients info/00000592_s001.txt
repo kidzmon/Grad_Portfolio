@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 54-year-old woman with epilepsy since age six with tonic seizures.  The patient was seizure-free until age 40 and then seizures recurred. However, she has been seizure-free for the past two years.
+MEDICATIONS: Phenobarbital.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11.3 Hz posterior dominant rhythm with amplitudes of 50 to 80 V.  There is a generous amount of low voltage, frontocentral beta activity.  There is frequent eye blink artifact.  As the patient gradually becomes somewhat drowsy, there is an increase in background beta, but deeper stages of sleep are not achieved.
+Hyperventilation does not activate the record. Photic stimulation elicits bilateral driving; however, at 3 Hz to 7 Hz, the activity is slightly irregular on the left in comparison to the right.
+HR:  78 BPM.
+IMPRESSION: This EEG is at the limits of normal.
+CLINICAL CORRELATION: In that the overall driving response is symmetric, the changes in the left anterior temporal region in photic stimulation is of unclear clinical significance.  Comparison with this patient’s previous EEGs may be of use regarding the slightly unusual field and response to photic stimulation at those two frequencies.  Alternatively, an additional recording with deeper stages of sleep may be helpful in terms of further evaluating the left anterior temporal region.
+
+
+
+

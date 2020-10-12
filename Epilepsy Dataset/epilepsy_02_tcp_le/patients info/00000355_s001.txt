@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 34-year-old male with epilepsy since 1979, generalized tonic-clonic seizures with last seizure one week ago.  Incontinence, tongue biting, and postictal confusion.
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm of 30 to 50 V.  In maximal wakefulness, there is mild excess in the background theta activity and as the patient relaxes a bit, the theta activity increases slightly.   Early in the record, there is a well-defined, high amplitude right mid-temporal sharp and slow wave complex.  As the patient starts to become drowsy after hyperventilation, there is subtle, irregular sharply contoured theta activity including pairs of sharp waves seen from the left.  Hyperventilation is performed early on in the record and seems to accentuate subtle, either sharply contoured irregular theta or pairs of sharp waves.  Following hyperventilation, as the patient becomes drowsy, there are again occasional sharp waves, some seen from the left, and more well defined higher amplitude sharp waves seen maximum at T4/T8.  Deeper stages of sleep are not sustained.
+Photic stimulation fails to activate the record.
+HR:  60 BPM.
+IMPRESSION: Abnormal EEG due to:
+Independent right or left anterior temporal sharp waves.
+Left temporal focal slowing.
+
+CLINICAL CORRELATION: The epileptiform activity from the temporal regions varies.  The activity on the right is better defined in higher amplitudes, but the left is more associated with focal slowing and discreet activity.  The activity is seen independently and consideration for a process involving both temporal regions would be appropriate.  No previous records were available for comparison.
+
+
+
+

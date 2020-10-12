@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 27 year old woman now 13weeks pregnant, found in diabetic
+ketoacidosis with abnormal MRI, persistent obtundation.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode
+placement with 1 channel of EKG. The patient is intubated, but responsive.
+DESCRIPTION THE RECORD: The background EEG is markedly slow, but there is theta
+frequency background. In this markedly abnormal EEG there are frontally predominant triphasic waves. In addition, there is some occasionally posteriorly predominant delta, right greater than left At times there is a 6-8 Hz posterior dominant rhythm, but there are asymmetries that may be present on one side or the other. There are sharp waves noted in the background, some of which are in the posterior regions, including P3, others a bit more at P4. In some sections of the record there is more left rhythmic frontal delta. Stimulation of the patient produces an alerting response with a decrease in the triphasic waves. Spontaneous alerting is also observed.
+HR: 84bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent triphasic waves occurring in bursts and trains.
+2. Markedly slow background.
+3. Despite the triphasic waves there are also epileptiform sharp waves identified from both hemispheres in the posterior and anterior regions.
+CLINICAL CORRELATION: This Is a markedly abnormal EEG. The triphasic waves can be
+seen in the context of a metabolic encephalopathy, but the sharp waves suggest a tendency to seizures. The presence of reactivity to stimulation, in particular the attenuation of triphasic waves with stimulation suggest a metabolic process, but the focal sharp waves may be correlated with imaging and raises concerns about ongoing seizures. This EEG is similar to previous studies, but the polyspike activity in the left parietal region is not as prominent.
+
+
+
